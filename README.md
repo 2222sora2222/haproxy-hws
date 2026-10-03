@@ -90,7 +90,7 @@ for i in {1..6}; do curl -s http://127.0.0.1:1325; echo; done
 
 **Скриншот 3 — страница статистики, полученная через curl изнутри Ubuntu:**
 
-![Статистика HAProxy](img/6.png)
+![Статистика HAProxy](img/12.png)
 
 ---
 
